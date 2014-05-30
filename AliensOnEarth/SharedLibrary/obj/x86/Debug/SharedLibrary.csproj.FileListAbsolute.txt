@@ -1,0 +1,5 @@
+C:\Users\venugpld\Documents\Visual Studio 2010\Projects\AliensOnEarth\SharedLibrary\bin\Debug\SharedLibrary.pdb
+C:\Users\venugpld\Documents\Visual Studio 2010\Projects\AliensOnEarth\SharedLibrary\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\venugpld\Documents\Visual Studio 2010\Projects\AliensOnEarth\SharedLibrary\obj\x86\Debug\SharedLibrary.pdb
+C:\Users\venugpld\Documents\Visual Studio 2010\Projects\AliensOnEarth\SharedLibrary\bin\Debug\SharedLibrary.dll
+C:\Users\venugpld\Documents\Visual Studio 2010\Projects\AliensOnEarth\SharedLibrary\obj\x86\Debug\SharedLibrary.dll

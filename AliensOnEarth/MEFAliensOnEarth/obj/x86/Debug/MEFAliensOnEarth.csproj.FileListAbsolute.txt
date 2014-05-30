@@ -1,0 +1,5 @@
+C:\Users\venugpld\Documents\Visual Studio 2010\Projects\AliensOnEarth\MEFAliensOnEarth\bin\Debug\MEFAliensOnEarth.exe
+C:\Users\venugpld\Documents\Visual Studio 2010\Projects\AliensOnEarth\MEFAliensOnEarth\bin\Debug\MEFAliensOnEarth.pdb
+C:\Users\venugpld\Documents\Visual Studio 2010\Projects\AliensOnEarth\MEFAliensOnEarth\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\venugpld\Documents\Visual Studio 2010\Projects\AliensOnEarth\MEFAliensOnEarth\obj\x86\Debug\MEFAliensOnEarth.exe
+C:\Users\venugpld\Documents\Visual Studio 2010\Projects\AliensOnEarth\MEFAliensOnEarth\obj\x86\Debug\MEFAliensOnEarth.pdb

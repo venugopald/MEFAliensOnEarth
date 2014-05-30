@@ -1,0 +1,7 @@
+C:\Users\venugpld\Documents\Visual Studio 2010\Projects\AliensOnEarth\MEFAliensPlugin\bin\Debug\MEFAliensPlugin.exe
+C:\Users\venugpld\Documents\Visual Studio 2010\Projects\AliensOnEarth\MEFAliensPlugin\bin\Debug\MEFAliensPlugin.pdb
+C:\Users\venugpld\Documents\Visual Studio 2010\Projects\AliensOnEarth\MEFAliensPlugin\bin\Debug\SharedLibrary.pdb
+C:\Users\venugpld\Documents\Visual Studio 2010\Projects\AliensOnEarth\MEFAliensPlugin\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\venugpld\Documents\Visual Studio 2010\Projects\AliensOnEarth\MEFAliensPlugin\obj\x86\Debug\MEFAliensPlugin.exe
+C:\Users\venugpld\Documents\Visual Studio 2010\Projects\AliensOnEarth\MEFAliensPlugin\obj\x86\Debug\MEFAliensPlugin.pdb
+C:\Users\venugpld\Documents\Visual Studio 2010\Projects\AliensOnEarth\MEFAliensPlugin\bin\Debug\SharedLibrary.dll
